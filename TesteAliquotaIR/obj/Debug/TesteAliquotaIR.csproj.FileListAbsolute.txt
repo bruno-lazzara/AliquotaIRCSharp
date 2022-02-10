@@ -1,8 +1,0 @@
-C:\Users\Dell\source\repos\AprendendoCSharp\TesteAliquotaIR\bin\Debug\TesteAliquotaIR.exe.config
-C:\Users\Dell\source\repos\AprendendoCSharp\TesteAliquotaIR\bin\Debug\TesteAliquotaIR.exe
-C:\Users\Dell\source\repos\AprendendoCSharp\TesteAliquotaIR\bin\Debug\TesteAliquotaIR.pdb
-C:\Users\Dell\source\repos\AprendendoCSharp\TesteAliquotaIR\obj\Debug\TesteAliquotaIR.csproj.SuggestedBindingRedirects.cache
-C:\Users\Dell\source\repos\AprendendoCSharp\TesteAliquotaIR\obj\Debug\TesteAliquotaIR.csproj.CoreCompileInputs.cache
-C:\Users\Dell\source\repos\AprendendoCSharp\TesteAliquotaIR\obj\Debug\TesteAliquotaIR.exe
-C:\Users\Dell\source\repos\AprendendoCSharp\TesteAliquotaIR\obj\Debug\TesteAliquotaIR.pdb
-C:\Users\Dell\source\repos\AprendendoCSharp\TesteAliquotaIR\obj\Debug\TesteAliquotaIR.csproj.AssemblyReference.cache
